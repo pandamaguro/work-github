@@ -1,6 +1,7 @@
 書き込みテスト
 
 from branch
+from branch 2
 
 # README
 
